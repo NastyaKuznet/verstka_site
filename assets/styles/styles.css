@@ -1,6 +1,10 @@
+body{
+    width: 1397px;
+    margin: 0 auto;
+}
+
 .header{
     background-color: #FFFFFF;
-    width: 1397px;
     height: 112px;
     font-family: Roboto-Light;
     font-size: 14px;
@@ -13,43 +17,50 @@
 .header__button{
     width: 157px;
     height: 52px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-.header__button_red-background-white-text{
+.header__button_filled{
     background-color: #FB4B4D;
     color: #FFFFFF;
 }
 
 .preview-block{
     background-color: #FFFFFF;
-    width: 1397px;
-    height: 989px;
     display: flex;
     flex-direction: row;
     border-right: 1px solid #000000;
     border-left: 1px solid #000000;
     border-bottom: 1px solid #000000;
+
 }
 
 .preview-block__left-part{
-    width: 697.39px;
-    height: 989px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
     border-right: 1px solid #000000;
 }
 
 .preview-block__left-part-image-icon{
     border-bottom: 1px solid #000000;
+    align-items: center;
+    justify-content: center;
 }
 
 .preview-block__left-part-image-bottle-cup{
-    width: 657px;
-    height: 436px;
     margin: 20px;
+    flex-grow: 1;
+}
+
+.preview-block__right-part{
+    flex-grow: 1;
 }
 
 .preview-block__el-hot-sauce{
-    width: 697px;
-    height: 233px;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -60,18 +71,17 @@
     font-family: Roboto-Regular;
     font-size: 58px;
     text-align: center;
+    border-bottom: 1px solid #000000;
+    padding: 10px;
 }
 
 .preview-block__right-part-image-bottle-hand{
-    width: 656px;
-    height: 705px;
     margin: 20px;
 }
 
 .lava-block{
     background-color: #FFFFFF;
-    width: 1397px;
-    height: 273px;
+    padding: 58px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -79,11 +89,6 @@
     border-right: 1px solid #000000;
     border-left: 1px solid #000000;
     border-bottom: 1px solid #000000;
-}
-
-.lava-block__scorpion{
-    width: 225px;
-    height: 156px;
 }
 
 .lava-block__text{
