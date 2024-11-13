@@ -14,16 +14,16 @@ body{
     border: 1px solid #000000;
 }
 
-.header__button{
+.button{
     width: 157px;
-    height: 52px;
+    padding: 20px;
     text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.header__button_filled{
+.button_filled{
     background-color: #FB4B4D;
     color: #FFFFFF;
 }

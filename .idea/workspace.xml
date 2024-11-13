@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53c79f51-0dc2-40f8-b621-52d8ca82a1ac" name="Changes" comment="done">
+    <list default="true" id="53c79f51-0dc2-40f8-b621-52d8ca82a1ac" name="Changes" comment="correct2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -39,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/projects/studenttestexamples2"
+    "last_opened_file_path": "D:/projects/ujjo"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -65,11 +65,29 @@
       <option name="project" value="LOCAL" />
       <updated>1730630578616</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="correct">
+      <option name="closed" value="true" />
+      <created>1731082364363</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731082364364</updated>
+    </task>
+    <task id="LOCAL-00003" summary="correct2">
+      <option name="closed" value="true" />
+      <created>1731084627662</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731084627662</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="done" />
-    <option name="LAST_COMMIT_MESSAGE" value="done" />
+    <MESSAGE value="correct" />
+    <MESSAGE value="correct2" />
+    <option name="LAST_COMMIT_MESSAGE" value="correct2" />
   </component>
 </project>
